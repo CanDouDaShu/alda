@@ -1,0 +1,17 @@
+{
+  "name": "alda",
+  "version": "1.0.0",
+  "description": "consul sdk for 5th",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenlingjie",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "consul": "^0.33.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}
